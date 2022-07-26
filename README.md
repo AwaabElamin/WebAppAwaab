@@ -12,6 +12,9 @@
 
 # deploy Angular Apps to GitHub Pages
 * Create your Github Repository
+* Create a gh-pages branch on your local machine 
+    * git branch gh-pages
+    * git checkout gh-pages
 * Install Angular CLI gh-pages:
     * npm i angular-cli-ghpages --save-dev
 * Run Build 
